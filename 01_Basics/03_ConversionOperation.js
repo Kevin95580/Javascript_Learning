@@ -44,6 +44,21 @@ let stringRollNo = String(rollNo);
 console.log(stringRollNo);
 console.log(typeof stringRollNo);
 
+// ********** Operations **********
 
+let str1 = "Hello ";
+let str2 = "world";
+let str3 = str1 + str2;
+console.log(str3);
+
+
+console.log(1 + 2);
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + "2");
+console.log("1" + 2 + 2); //122
+console.log(1 + 2 + "2") ;//32
+//may be output taken from first argu
+console.log(+true);
 
 
