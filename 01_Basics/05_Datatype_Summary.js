@@ -3,7 +3,7 @@
 //Primitive 
 //Non-Primitive
 
-//++++++++++ Primitive Datatyes ++++++++++ (7 categories)--reference copy allocated 
+//++++++++++ Primitive Datatyes ++++++++++ (7 categories)-- copy allocated 
 //types: String, Number, Boolean, null, undefined, Symbol, BigInt
 
 const score = 100;
@@ -32,3 +32,10 @@ let myFunction = function(){
     
 }
 myFunction();
+
+
+////+++++++++++++++++++++++++++++++++++++++++
+
+//Memories - Stack(Primitive), Heap(Non-Premitive)
+
+
